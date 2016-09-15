@@ -48,6 +48,7 @@ $ ./install.sh -p /dev/sdX
 
 
 #### Thanks to:
++ [Android-RPi3] (https://github.com/Android-RPi3)
 + [peyo-hd](https://github.com/peyo-hd)
 + [RTAndroid](https://github.com/RTAndroid)
 + [kconger](https://github.com/kconger)
