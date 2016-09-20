@@ -10,7 +10,7 @@ Prepare the workspace and download sources
 ------------------------------------------
 ```
 $ mkdir ~/Android-RPi3 && cd ~/Android-RPi3
-$ repo init -u git://github.com/Android-RPi3/android_manifest.git -b android-6.0
+$ repo init -u git://github.com/enochcheng/rpi3_android_manifest.git -b android-5.1.1
 $ repo sync -jX
 ```
 + Replace -j**X** with number of core/cpu * 2
