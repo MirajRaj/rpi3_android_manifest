@@ -24,7 +24,7 @@ $ export USE_CCACHE=1
 $ export CCACHE_DIR=/your/path/.ccache
 $ prebuilts/misc/linux-x86/ccache/ccache -M 50G
 $ source build/envsetup.sh
-$ lunch rpi3-user
+$ lunch rpi3-userdebug
 $ make -jX
 ```
 + Replace -j**X** with number of core/cpu * 2
