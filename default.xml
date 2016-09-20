@@ -10,7 +10,7 @@
            revision="android-6.0" />
 
   <remote  name="linaro"
-           fetch="git://android.git.linaro.org" />
+           fetch="https://android-git.linaro.org/git" />
 
   <remote  name="peyo"
            fetch="https://github.com/peyo-hd" />
